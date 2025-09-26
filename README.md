@@ -1,5 +1,5 @@
 # data_demo_x
--Current analysis scripts on dispatarate datasets (flight info & twitter sentiment  
+***Current analysis scripts on dispatarate datasets flight info & twitter sentiment***  
 
 -flights_pricing_daysleft.py - analyzes flight info in isolation for pricing analysis  
 
